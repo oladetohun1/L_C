@@ -38,7 +38,8 @@ The newline character tells the computer to move the cursor to the beginning of 
 
 - The close brace:The shows the end of the function
 
-# [A-function_that-multiplies_two-integers.c](A-function_that-multiplies_two-integers.c) This is a function that declares a function integer_mul that multiplies two integers and also uses this function to get the multiple of 4and 3
+# [A-function_that-multiplies_two-integers.c](A-function_that-multiplies_two-integers.c) :
+This is a function that declares a function integer_mul that multiplies two integers and also uses this function to get the multiple of 4and 3
 <hr />
 
 ## Understanding Data Types and Keywords
