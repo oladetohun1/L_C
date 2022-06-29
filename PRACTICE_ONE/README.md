@@ -4,7 +4,7 @@
 
 # This is my very first c- program,it feels so cool to write it--[A_simple_c_program.c](./A_simple_c_program.c)
 <h3>This program contains the following</h3>
-- The first lline starts with a combination of slash and asterisk, <i>/*</i>) and ends with <i>*/</i> ,this symbols are kknown as opening comment marks and closing comment marks.That means it is completely ignored by the compiler. The important of comment is to document what the code is about so that other programmers or anyone reading it can understand.
+- The first lline starts with a combination of slash and asterisk, <i>/*</i> and ends with <i>*/</i> ,this symbols are known as opening comment marks and closing comment marks.That means it is completely ignored by the compiler. The important of comment is to document what the code is about so that other programmers or anyone reading it can understand.
 
 - The second line has what we call the <i>#Include directive</i> .This directives tell the C preprocessor to look for a file and place the content of that file in the location where the <i>#Include Directives is</i>.In our case the #Include directives ask for the preprocessor to look for and place the stdio.h at the location of the directives in the C program.
 
