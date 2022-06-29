@@ -49,8 +49,10 @@ This is a function that declares a function integer_mul that multiplies two inte
 ##### I am going to be learning about :
  
  • char data type
+ 
  • int data type
  
  • float data type
+ 
  • double data type
  
