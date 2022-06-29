@@ -20,4 +20,20 @@ The newline character tells the computer to move the cursor to the beginning of 
 - The exit() Function : THe exit() Function can be used to end a program
 
 <hr />
-# 
+
+
+# [A-function_that-adds_two-integers.c](A-function_that-adds_two-integers.c) This is a function that adds two integers and returnsthe result.
+
+### The function syntax has six different parts 
+
+- The type<i>(in our case int)</i> : This is always prefixed prior to the function name.Here int is used as thr function type,which signify that an integer is returned by the function.
+
+- The function name: The function name is integer_add
+
+- The arguments : The argument lists contains two arguments, int x and int y, where the data types specifies that the two arguments are both integers
+
+- The open brace: It marks the start of the function
+
+- The Function body: This contains the statement
+
+- The close brace:The shows the end of the function`
