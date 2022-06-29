@@ -22,7 +22,9 @@ The newline character tells the computer to move the cursor to the beginning of 
 <hr />
 
 
-# [A-function_that-adds_two-integers.c](A-function_that-adds_two-integers.c) This is a function that adds two integers and returnsthe result.
+# [A-function_that-adds_two-integers.c](A-function_that-adds_two-integers.c) 
+ 
+ This is a function that adds two integers and returnsthe result.
 
 ### The function syntax has six different parts 
 
@@ -45,8 +47,10 @@ This is a function that declares a function integer_mul that multiplies two inte
 ## Understanding Data Types and Keywords
 
 ##### I am going to be learning about :
-• char data type
-• int data type
-• float data type
-• double data type
+ 
+ • char data type
+ • int data type
+ 
+ • float data type
+ • double data type
  
