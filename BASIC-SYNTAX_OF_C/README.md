@@ -1,4 +1,4 @@
-# I would be learning c from the basics to Advance on  Here
+#I would be learning c from the basics to Advance on  Here
 
 ## Description of Each Files
 
@@ -36,4 +36,16 @@ The newline character tells the computer to move the cursor to the beginning of 
 
 - The Function body: This contains the statement
 
-- The close brace:The shows the end of the function`
+- The close brace:The shows the end of the function
+
+# [A-function_that-multiplies_two-integers.c](A-function_that-multiplies_two-integers.c) This is a function that declares a function integer_mul that multiplies two integers and also uses this function to get the multiple of 4and 3
+<hr />
+
+## Understanding Data Types and Keywords
+
+##### I am going to be learning about :
+• char data type
+• int data type
+• float data type
+• double data type
+ 
